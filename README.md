@@ -10,7 +10,13 @@ A collection of interactive **React components** to practice fundamental concept
 
 ## 🚀 **Live Demo**
 
-[📍 ](#)[**View Live**](#)&#x20;
+[📍 ](https://codebyabdo.github.io/react-basics-exercises/)[**View Live**](https://codebyabdo.github.io/react-basics-exercises/)
+
+---
+
+## 📦 **Repository**
+
+[🔗 ](https://github.com/codebyabdo/react-basics-exercises)[**GitHub Repo**](https://github.com/codebyabdo/react-basics-exercises)
 
 ---
 
