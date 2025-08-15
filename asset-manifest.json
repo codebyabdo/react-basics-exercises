@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-basics-exercises/static/css/main.569129af.css",
+    "main.js": "/react-basics-exercises/static/js/main.fa614e48.js",
+    "static/js/186.8d3f51eb.chunk.js": "/react-basics-exercises/static/js/186.8d3f51eb.chunk.js",
+    "static/js/659.2815783f.chunk.js": "/react-basics-exercises/static/js/659.2815783f.chunk.js",
+    "static/js/478.bef0e8b8.chunk.js": "/react-basics-exercises/static/js/478.bef0e8b8.chunk.js",
+    "static/js/308.d49aa5f9.chunk.js": "/react-basics-exercises/static/js/308.d49aa5f9.chunk.js",
+    "static/js/703.487eaff0.chunk.js": "/react-basics-exercises/static/js/703.487eaff0.chunk.js",
+    "static/js/82.b1cb9ef0.chunk.js": "/react-basics-exercises/static/js/82.b1cb9ef0.chunk.js",
+    "static/js/169.626a33e0.chunk.js": "/react-basics-exercises/static/js/169.626a33e0.chunk.js",
+    "static/js/102.e79b39e1.chunk.js": "/react-basics-exercises/static/js/102.e79b39e1.chunk.js",
+    "index.html": "/react-basics-exercises/index.html",
+    "main.569129af.css.map": "/react-basics-exercises/static/css/main.569129af.css.map",
+    "main.fa614e48.js.map": "/react-basics-exercises/static/js/main.fa614e48.js.map",
+    "186.8d3f51eb.chunk.js.map": "/react-basics-exercises/static/js/186.8d3f51eb.chunk.js.map",
+    "659.2815783f.chunk.js.map": "/react-basics-exercises/static/js/659.2815783f.chunk.js.map",
+    "478.bef0e8b8.chunk.js.map": "/react-basics-exercises/static/js/478.bef0e8b8.chunk.js.map",
+    "308.d49aa5f9.chunk.js.map": "/react-basics-exercises/static/js/308.d49aa5f9.chunk.js.map",
+    "703.487eaff0.chunk.js.map": "/react-basics-exercises/static/js/703.487eaff0.chunk.js.map",
+    "82.b1cb9ef0.chunk.js.map": "/react-basics-exercises/static/js/82.b1cb9ef0.chunk.js.map",
+    "169.626a33e0.chunk.js.map": "/react-basics-exercises/static/js/169.626a33e0.chunk.js.map",
+    "102.e79b39e1.chunk.js.map": "/react-basics-exercises/static/js/102.e79b39e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.569129af.css",
+    "static/js/main.fa614e48.js"
+  ]
+}
